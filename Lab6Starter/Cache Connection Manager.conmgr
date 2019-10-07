@@ -1,0 +1,25 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Cache Connection Manager"
+  DTS:DTSID="{11A193B1-EEF3-4FE0-A668-F1EC34925508}"
+  DTS:CreationName="CACHE">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager>
+      <DTS:CacheColumns>
+        <DTS:CacheColumn
+          DTS:DataType="129"
+          DTS:Length="2"
+          DTS:CodePage="65001"
+          DTS:IndexPosition="1"
+          DTS:ObjectName="LetterGrade"
+          DTS:DTSID="{DC45B1C4-26F5-4968-B25D-28E9B047CEC0}"
+          DTS:CreationName="" />
+        <DTS:CacheColumn
+          DTS:DataType="3"
+          DTS:ObjectName="NumberGrade"
+          DTS:DTSID="{B7551DB0-A480-430D-87B2-1FDA9B62FDC0}"
+          DTS:CreationName="" />
+      </DTS:CacheColumns>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
